@@ -1,0 +1,202 @@
+*{
+    background-color: #020617;
+}
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+     
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0F1323;
+    width: Fixed (1,104px)px;
+height: Fixed (80px)px;
+margin-top: 62px;
+margin-left: 168px;
+margin-right: 168px;
+padding: 10px 20px 10px 20px;
+gap: 0px;
+border-radius: 48px 48px 48px 48px;
+opacity: 0px;
+background: linear-gradient(92.98deg, rgba(217, 217, 217, 0.07) 32.09%, rgba(217, 217, 217, 0.05) 116.98%);
+border: 1px solid;
+border-image-source: linear-gradient(122.35deg, rgba(255, 255, 255, 0.21) 19.78%, rgba(255, 255, 255, 0) 187.39%);
+backdrop-filter: blur(250px);
+}
+.nav-items {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+}
+
+.nav-items li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    transition: color 0.3s;
+}
+
+
+.get {
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #1d1035;
+    border-radius: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+}
+.Container1{
+    text-align: center;
+    padding: 150px 20px;
+}
+.Container1 h1{
+    color:white;
+    font-size:60px;
+    font-family: Satoshi;
+    font-weight: 900;
+    line-height: 80px;
+    text-align: center;
+    margin: 0;
+}
+.Container1 h1 span{
+    color:#ff56f6;
+    background: linear-gradient(94.68deg, #FF0276 2.51%, #7209B7 56.42%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.text1{
+    color: #fff;
+    font-family: Satoshi;
+font-size: 18px;
+/* font-weight: 700; */
+line-height: 32.4px;
+text-align: center;
+
+}
+.btn2{
+    width: 162.64px;
+    height: Hug (40px)px;
+    top: 614px;
+    left: 560.1px;
+    padding: 8px 14px 8px 14px;
+    gap: 0px;
+    border: none;
+    border-radius: 20px ;
+    justify-content: space-around;
+    opacity: 0px;
+    background: linear-gradient(205.14deg, #3F37C9 30.04%, #4CC9F0 186.57%);
+    color: white;
+    font-weight: 600;
+    
+
+}
+.btn3{
+    width: Fixed (162.64px)px;
+    height: Hug (44px)px;
+    top: 610px;
+    left: 735.93px;
+    padding: 10px 20px 10px 20px;
+    gap: 8px;
+    opacity: 0px;
+    backdrop-filter: blur(300px);
+    background: transparent;
+    border:none;    
+    color: white;
+    font-weight: 600;
+
+}
+.long{
+
+    width: 158.09px;
+height: 70.44px;
+/* top: 829px; */
+/* left: 437.45px; */
+gap: 0px;
+opacity: 0px;
+background: transparent;
+
+}
+.b{
+    display: flex;
+    justify-content: space-around;
+
+}
+.backed{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 661px;
+height: 100px;
+/* top: 817px; */
+left: 389px;
+gap: 0px;
+border-radius: 32px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+background: linear-gradient(92.98deg, rgba(217, 217, 217, 0.07) 32.09%, rgba(217, 217, 217, 0.05) 116.98%);
+border: 1px solid;
+
+border-image-source: linear-gradient(122.35deg, rgba(255, 255, 255, 0.21) 19.78%, rgba(255, 255, 255, 0) 187.39%);
+
+
+
+}
+.heading{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+color: #fff;
+}
+.text{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Satoshi;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 43.2px;
+}
+.heading span{
+    color:#ff56f6;
+    background: linear-gradient(205.14deg, #3F37C9 30.04%, #4CC9F0 186.57%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.heading2{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    width: 1104px;
+height: 372px;
+top: 1306px;
+/* left: 168px; */
+gap: 0px;
+opacity: 0.1px;
+color: white;
+}
+.text2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+    font-family: Satoshi;
+font-size: 18px;
+/* font-weight: 700; */
+line-height: 32.4px;
+text-align: center;
+}
+
+
+
+@media screen and (min-width:430px) and (max-width){
+    
+}
+
